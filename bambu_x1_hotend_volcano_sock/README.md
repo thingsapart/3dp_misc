@@ -4,6 +4,12 @@ Sock Mold for Volcano-length Bambu Lab X1/P1 hotends.
 
 If you run a BL X1 hotend on another printer and use a volca+extender or V6-volcano extender, here's a sock to keep temp fluctuations and cooling effects down.
 
+# Preview
+
+![The Mold]([bambu_x1_hotend_volcano_sock/Bambu Volcano Sock.jpg](https://github.com/thingsapart/3dp_misc/blob/main/bambu_x1_hotend_volcano_sock/Sock%20Mounted.jpg?raw=true)
+
+![The Sock](https://github.com/thingsapart/3dp_misc/blob/main/bambu_x1_hotend_volcano_sock/Bambu%20Volcano%20Sock.jpg?raw=true)
+
 # How to
 Print the 3 mold parts and get some high-temp silicone (either 2-part or RTV). 
 
