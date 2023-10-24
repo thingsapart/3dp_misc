@@ -6,7 +6,7 @@ If you run a BL X1 hotend on another printer and use a volca+extender or V6-volc
 
 # Preview
 
-![The Mold]([bambu_x1_hotend_volcano_sock/Bambu Volcano Sock.jpg](https://github.com/thingsapart/3dp_misc/blob/main/bambu_x1_hotend_volcano_sock/Sock%20Mounted.jpg?raw=true)
+![The Mold](https://github.com/thingsapart/3dp_misc/blob/main/bambu_x1_hotend_volcano_sock/Sock%20Mounted.jpg?raw=true)
 
 ![The Sock](https://github.com/thingsapart/3dp_misc/blob/main/bambu_x1_hotend_volcano_sock/Bambu%20Volcano%20Sock.jpg?raw=true)
 
