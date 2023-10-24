@@ -6,9 +6,9 @@ If you run a BL X1 hotend on another printer and use a volca+extender or V6-volc
 
 # Preview
 
-![The Mold](https://github.com/thingsapart/3dp_misc/blob/main/bambu_x1_hotend_volcano_sock/Sock%20Mounted.jpg?raw=true)
+<img alt='Mold' src='https://github.com/thingsapart/3dp_misc/blob/main/bambu_x1_hotend_volcano_sock/Sock%20Mounted.jpg?raw=true' width='400px'/>
 
-![The Sock](https://github.com/thingsapart/3dp_misc/blob/main/bambu_x1_hotend_volcano_sock/Bambu%20Volcano%20Sock.jpg?raw=true)
+<img alt='Sock' src='https://github.com/thingsapart/3dp_misc/blob/main/bambu_x1_hotend_volcano_sock/Bambu%20Volcano%20Sock.jpg?raw=true' width='400px'/>
 
 # How to
 Print the 3 mold parts and get some high-temp silicone (either 2-part or RTV). 
